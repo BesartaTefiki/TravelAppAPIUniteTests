@@ -47,7 +47,7 @@ By following these steps and utilizing the provided configurations, you can ensu
 ### Installation Steps
 1. **Clone the Repository**  
    Clone the project repository from GitHub and navigate into the project directory:  
-`git clone https://github.com/BesartaTefiki/Travel-App-API-Unite-Tests.git`
+`git clone https://github.com/BesartaTefiki/TravelAppAPIUniteTests.git`
 
 `cd java-project-springboot`
 
