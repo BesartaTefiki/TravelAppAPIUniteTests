@@ -27,13 +27,15 @@ Exception Tests: 100% coverage
 Based on the professor requirements which were that we should cover all the possible unite testings for:Controllers, Services (I also added the unite testings for Exceptions) the repository and pojo are not covered.
 Screenshots of the coverage reports for service and controller tests showing 100% coverage are included below:
 Controller Test Coverage
-![Screenshot 2024-05-17 232952](https://github.com/BesartaTefiki/Travel-App-API-Unite-Tests/assets/106693895/c712fc68-efbb-4651-8429-cb1fb6da4dee)
+![Screenshot 2024-05-17 232952](https://github.com/BesartaTefiki/TravelAppAPIUniteTests/assets/106693895/be04688e-f1ba-434c-ae2d-cc97c1051988)
+
 
 Service Test Coverage
-![Screenshot 2024-05-17 233357](https://github.com/BesartaTefiki/Travel-App-API-Unite-Tests/assets/106693895/c3ca5d74-14e5-4ab7-bab4-818ed7c58edb)
+![Screenshot 2024-05-17 233357](https://github.com/BesartaTefiki/TravelAppAPIUniteTests/assets/106693895/d2466626-68bb-4efd-a2ed-410832ff5aee)
 
 Exception Test Coverage
-![Screenshot 2024-05-18 011658](https://github.com/BesartaTefiki/Travel-App-API-Unite-Tests/assets/106693895/990382ec-fa37-4c25-b1e2-ba938732ed2e)
+![Screenshot 2024-05-18 011658](https://github.com/BesartaTefiki/TravelAppAPIUniteTests/assets/106693895/b3598ebf-b52c-4ba7-b0c3-7e818cfeb714)
+
 
 By following these steps and utilizing the provided configurations, you can ensure that your Spring Boot project is fully tested and meets the requirements for unit testing coverage.
 ### Prerequisites
